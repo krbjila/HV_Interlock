@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HVShutoffBox)(type KiCad)(uri ${KIPRJMOD}/HVShutoffBox.pretty)(options "")(descr ""))
+)

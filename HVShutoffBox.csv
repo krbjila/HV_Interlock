@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"JILA_silk";1;"LOGO";;;
+2;"U1";"DIP-8_W7.62mm_LongPads";1;"LF356";;;
+3;"SW1";"DIP-6_190";1;"SW_DPDT_x2";;;
+4;"U4";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"74HCT541";;;
+5;"U3";"SOT-23";1;"LM4040DBZ-2.0";;;
+6;"U2";"Teensy30_31_32_LC";1;"Teensy-LC";;;
+7;"R11,R10,R9,R8,R7,R6,R1";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";7;"3.3k";;;
+8;"R5";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"R";;;
+9;"R4";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"45.3k";;;
+10;"R3";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"38.3k";;;
+11;"R2";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"187k";;;
+12;"J8";"Molex_CLIK-Mate_502382-0370_1x03-1MP_P1.25mm_Vertical";1;"Conn_01x03";;;
+13;"J7,J6,J5,J4,J3,J2,J1";"BNC_Amphenol_031-6575_Horizontal";7;"Conn_Coaxial_x2";;;
+14;"C8,C7,C5,C4,C3,C2,C1";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";7;"0.1u";;;
