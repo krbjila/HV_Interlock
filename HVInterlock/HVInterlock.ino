@@ -17,7 +17,7 @@ int buf_i = 0;
 
 double v_input = 0;
 
-double get_voltage(bool enable) {
+double get_voltage() {
   return -9.99937 + 20021.1 * analogRead(VOLTAGE);
 }
 
@@ -62,7 +62,7 @@ void loop() {
 			buffer[buf_i++] = '\0';
 			switch(buffer[0]) {
 				case 'v': // send current voltage over serial
-					Serial.println(v_input)
+					Serial.println(v_input);
 					break;
 				case 'E': // enable HV outputs
 					set_HV_enable(true);
